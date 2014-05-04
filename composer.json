@@ -1,0 +1,19 @@
+{
+    "name": "mnot/hinclude",
+    "description": "Declarative client-side inclusion for the Web. HInclude makes one thing very easy; including other bits of HTML into your Web page, using the browser.",
+    "keywords": ["javascript", "client-side", "client", "include", "cache"],
+    "homepage": "http://mnot.github.io/hinclude/",
+    "license": [
+        "MIT"
+    ],
+    "authors": [
+        {
+            "name": "Mark Nottingham",
+            "email": "mnot@mnot.com"
+        },
+        {
+            "name": "Fabio Fabbrucci",
+            "email": "fabio.fabbrucci@gmail.com"
+        }
+    ]
+}
